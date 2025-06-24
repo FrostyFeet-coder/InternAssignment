@@ -35,9 +35,6 @@ teamtrack/
 ├── Procfile
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
