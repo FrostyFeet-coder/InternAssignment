@@ -25,6 +25,18 @@ A simple Django REST API for managing employees and managers at an organization.
 
 ---
 
+### 📫 API Testing via Postman
+
+All API endpoints are documented and testable using this public Postman collection:
+
+🔗 [👉 Open Postman Collection](https://www.postman.com/winter-eclipse-588332/workspace/internassignment-ansh-wasan/collection/29649695-68a2b64b-528b-4849-be65-101c23aa46d1)
+
+Includes:
+- 👤 Manager API (CRUD + delete confirmation)
+- 🧑‍💼 Employee API (CRUD + filter by manager)
+
+No auth required. You can run all requests directly.
+
 ## 📂 Project Structure
 
 teamtrack/
